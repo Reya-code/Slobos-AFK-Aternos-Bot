@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ReyaSMP!",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I love my job!",
+        "Enjoy! [message from Reya Smp.]",
+        "Good luck :))"
       ]
     },
     "chat-log": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1496097235770019890/3LRfucs07kY_b7RF2jbw87OhJubowEz83nyL1WqBs6XrYp-9uBZJu0xrZvIiMap0-nai",
     "events": {
       "connect": true,
       "disconnect": true,
